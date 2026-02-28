@@ -1,9 +1,7 @@
 # Termos de Uso
 
-(Suas informações e regras sobre o uso do aplicativo.)
-
-... (conteúdo integral dos termos de uso) ...
+... (restante do conteúdo integral dos Termos de Uso aqui) ...
 
 ## 9. Contato
 
-Para dúvidas ou solicitações relacionadas aos Termos de Uso, utilize a opção **"Enviar sugestão"** disponível na tela de **Configurações** do aplicativo. Sua mensagem será recebida diretamente pela equipe da MD Studio.
+Para dúvidas ou solicitações relacionadas à privacidade, utilize a opção "Enviar sugestão" disponível na tela de Configurações do próprio aplicativo. Sua mensagem será recebida diretamente pela equipe da MD Studio.
